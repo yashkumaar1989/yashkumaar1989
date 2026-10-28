@@ -1,4 +1,12 @@
-## Hi there 👋
+Yashkumar Chaudhari
+
+Financial Valuation | Financial Modelling | Investment Research
+
+Finance professional with 10+ years of experience across Big Four advisory, institutional investment research and financial services.
+
+Areas of Expertise
+
+DCF Valuation · Private Equity Fund Modelling · M&A · LBO · Equity Research · Financial Due Diligence · Portfolio Analytics
 
 <!--
 **yashkumaar1989/yashkumaar1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
