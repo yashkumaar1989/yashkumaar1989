@@ -256,6 +256,44 @@ An integrated closed-end private equity fund financial model covering fund lifec
 
 ---
 
+### 5. Portfolio Valuation & Investment Performance Analytics
+
+**[View Portfolio Valuation Model & Executive Dashboard](https://github.com/yashkumaar1989/Portfolio-Valuation-Investment-Analytics)**
+
+**Project Type:** Portfolio Valuation | Wealth & Asset Management | Private Equity | Investment Analytics
+
+An integrated investment portfolio valuation and performance analytics case study covering 20 fictional companies across public and private markets. The model combines DCF valuation, market multiples, portfolio NAV calculations, investment performance attribution, sector exposure analysis and executive investment reporting.
+
+**Key Areas Covered:**
+
+- Portfolio valuation across 20 public and private investments
+- Discounted Cash Flow (DCF) valuation
+- EV/EBITDA market multiple valuation
+- Financial forecasting and free cash flow projections
+- Portfolio Net Asset Value (NAV)
+- Investment cost basis and fair value analysis
+- Unrealised gains and interim cash distributions
+- Investment-level MOIC and cumulative returns
+- Portfolio performance attribution
+- Sector allocation and portfolio concentration
+- Bear, base and bull valuation scenarios
+- Executive portfolio dashboard and charts
+- Professional portfolio valuation reporting
+
+**Illustrative Portfolio Metrics:**
+
+- Invested Capital: $322.35 million
+- Portfolio NAV: $754.13 million
+- Interim Distributions: $21.05 million
+- Total Value / Invested Capital: 2.40x
+- Cumulative Total Return: 140.48%
+
+**Deliverables:** Excel Portfolio Valuation Model | Executive Dashboard | Portfolio Valuation Report (PDF)
+
+**Data:** 100% Synthetic & Illustrative
+
+---
+
 ## Industry Experience
 
 Experience in financial modelling, valuation, FP&A and investment analysis across multiple industries, including:
