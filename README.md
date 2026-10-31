@@ -227,9 +227,6 @@ A comprehensive valuation case study for a fictional industrial technology compa
 
 ---
 
-
----
-
 ### 4. Private Equity Closed-End Fund Financial Modelling
 
 **[View Private Equity Fund Financial Model & GP/LP Waterfall](https://github.com/yashkumaar1989/Private-Equity-Fund-Financial-Modelling)**
