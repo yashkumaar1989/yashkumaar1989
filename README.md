@@ -230,6 +230,37 @@ A comprehensive valuation case study for a fictional industrial technology compa
 
 ---
 
+### 4. Private Equity Closed-End Fund Financial Modelling
+
+**[View Private Equity Fund Financial Model & GP/LP Waterfall](https://github.com/yashkumaar1989/Private-Equity-Fund-Financial-Modelling)**
+
+**Project Type:** Private Equity | Fund Financial Modelling | Asset Management | Investor Returns
+
+An integrated closed-end private equity fund financial model covering fund lifecycle projections, capital deployment, debt financing, portfolio investment returns, GP/LP partnership economics, carried interest and investor-level cash flows.
+
+**Key Areas Covered:**
+
+- Closed-end fund structure, fund life and extension periods
+- Fund commitments, capital drawdowns and investment deployment
+- Portfolio investment cash flows, dividends and exit multiples
+- Debt financing and repayment schedules
+- Management fees, transaction fees and operating expenses
+- GP/LP partnership distribution waterfall
+- Preferred returns, hurdle rates and GP catch-up
+- Carried interest and residual profit allocation
+- Individual LP capital contributions and distributions
+- Gross and net fund IRR, MOIC, TVPI and DPI
+- Portfolio Net Asset Value (NAV)
+- Executive fund performance summary and investor reporting
+
+**Deliverables:** Integrated Excel Fund Model | GP/LP Waterfall | Investor Returns | Executive Fund Summary
+
+**Data:** Illustrative and anonymised financial assumptions
+
+---
+
+---
+
 ## Industry Experience
 
 Experience in financial modelling, valuation, FP&A and investment analysis across multiple industries, including:
