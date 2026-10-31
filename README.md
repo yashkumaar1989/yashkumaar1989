@@ -21,6 +21,25 @@ This GitHub portfolio showcases practical examples of my financial modelling, va
 
 ---
 
+---
+
+## Featured Financial Modelling Portfolio
+
+Explore five practical financial modelling and investment analysis projects, each supported by an Excel model, financial analysis and project documentation.
+
+| Project | Core Expertise | View Project |
+|---|---|---|
+| **1. LBO & M&A Financial Modelling** | Leveraged buyouts, acquisition financing, debt schedules, IRR and MOIC | [Explore](https://github.com/yashkumaar1989/LBO-MA-Financial-Modelling) |
+| **2. FP&A & SaaS Financial Modelling** | Three-statement forecasting, SaaS metrics, budgeting, variance analysis and dashboards | [Explore](https://github.com/yashkumaar1989/FP-A-SaaS-Financial-Modelling) |
+| **3. Business Valuation & DCF** | DCF, WACC, trading comparables, enterprise valuation and sensitivity analysis | [Explore](https://github.com/yashkumaar1989/Business-Valuation-DCF-Financial-Modelling) |
+| **4. Private Equity Fund Modelling** | Closed-end fund economics, GP/LP waterfalls, carried interest and investor returns | [Explore](https://github.com/yashkumaar1989/Private-Equity-Fund-Financial-Modelling) |
+| **5. Portfolio Valuation & Analytics** | Portfolio NAV, fair value measurement, DCF, MOIC and performance attribution | [Explore](https://github.com/yashkumaar1989/Portfolio-Valuation-Investment-Analytics) |
+
+**Portfolio Focus:** Financial Modelling | Business Valuation | Private Equity | FP&A | Investment Banking | Wealth & Asset Management
+
+---
+
+
 ## Areas of Expertise
 
 ### Financial Modelling & Corporate Finance
