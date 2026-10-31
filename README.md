@@ -173,6 +173,61 @@ An investment banking-style LBO model evaluating the hypothetical acquisition of
 
 **Data:** 100% Synthetic & Illustrative
 
+
+### 2. SaaS Financial Planning & Analysis (FP&A)
+
+**[View SaaS FP&A Financial Model & Executive Dashboard](https://github.com/yashkumaar1989/FP-A-SaaS-Financial-Modelling)**
+
+**Project Type:** Financial Planning & Analysis | Corporate Finance | SaaS Financial Modelling
+
+A comprehensive SaaS FP&A case study demonstrating integrated financial planning, budgeting, revenue forecasting, cost analysis, financial performance monitoring and executive management reporting.
+
+**Key Areas Covered:**
+
+- Monthly financial forecasting and budgeting
+- Revenue growth and subscription modelling
+- Operating expenses and cost analysis
+- Headcount and personnel expense planning
+- Budget versus actual variance analysis
+- SaaS performance metrics including ARR, MRR, churn, CAC and LTV
+- Cash flow forecasting and liquidity analysis
+- Executive dashboard with financial KPIs and charts
+- Management commentary and financial performance recommendations
+
+**Deliverables:** Excel Financial Model | Executive Dashboard | CFO Management Report
+
+**Data:** 100% Synthetic & Illustrative
+
+---
+
+### 3. Business Valuation & DCF Financial Modelling
+
+**[View DCF Valuation Model & Executive Dashboard](https://github.com/yashkumaar1989/Business-Valuation-DCF-Financial-Modelling)**
+
+**Project Type:** Business Valuation | Corporate Finance | Investment Analysis
+
+A comprehensive valuation case study for a fictional industrial technology company, combining discounted cash flow valuation, financial forecasting, cost of capital analysis and trading comparable company methodologies.
+
+**Key Areas Covered:**
+
+- Five-year financial forecasting
+- Discounted Cash Flow (DCF) valuation
+- Weighted Average Cost of Capital (WACC)
+- Cost of equity and cost of debt calculations
+- Terminal value using perpetual growth and exit multiples
+- Trading comparable company analysis
+- Enterprise value and equity value calculations
+- WACC and terminal growth sensitivity analysis
+- Executive valuation dashboard and charts
+- Professional valuation reporting
+
+**Deliverables:** Excel Valuation Model | Executive Dashboard | Business Valuation Report
+
+**Data:** 100% Synthetic & Illustrative
+
+---
+
+
 ---
 
 ## Industry Experience
