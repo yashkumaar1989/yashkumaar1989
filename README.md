@@ -31,6 +31,16 @@ This GitHub profile showcases independently developed financial models and illus
 
 ---
 
+## Portfolio at a Glance
+
+| Professional Experience | Published Projects | Core Specialisations |
+|---|---|---|
+| **12 Years** | **5 Financial Modelling Case Studies** | **Valuation, Private Equity, FP&A, M&A & Investment Analytics** |
+
+**Explore my work:** Five publicly available financial modelling case studies, supported by Excel models, investment analysis reports and detailed methodologies.
+
+---
+
 ## Featured Financial Modelling Portfolio
 
 Explore five financial modelling and investment analysis projects demonstrating different aspects of corporate finance, business valuation, private equity, financial planning and investment portfolio management.
