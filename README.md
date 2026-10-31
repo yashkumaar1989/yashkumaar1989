@@ -19,7 +19,6 @@ I specialise in helping **private equity funds, asset managers, institutional in
 
 This GitHub portfolio showcases practical examples of my financial modelling, valuation, FP&A, corporate finance and investment analysis capabilities.
 
----
 
 ---
 
