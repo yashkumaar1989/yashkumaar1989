@@ -38,7 +38,6 @@ Explore five practical financial modelling and investment analysis projects, eac
 
 ---
 
-
 ## Areas of Expertise
 
 ### Financial Modelling & Corporate Finance
