@@ -256,8 +256,6 @@ An integrated closed-end private equity fund financial model covering fund lifec
 
 ---
 
----
-
 ## Industry Experience
 
 Experience in financial modelling, valuation, FP&A and investment analysis across multiple industries, including:
